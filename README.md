@@ -41,8 +41,8 @@
 
  📫 Contact
 - GitHub: @artur-devv
-- Te.me: @artur.ll77
-- instagram: @artur.ll7
+- Te.me: @artur7ll
+- instagram: @artur.7ll
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
